@@ -1,1 +1,5 @@
-# diego-code-repo-2d9fc2085ad3
+# policy-template
+
+Repository template for Aserto policy repos.
+
+
